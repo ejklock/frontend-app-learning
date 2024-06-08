@@ -36,7 +36,6 @@ const appMessages = {
   'de-de': dedeCAMessages,
   'it-it': ititCAMessages,
   'pt-pt': ptptCAMessages,
-  pt_br: ptBRMessages,
   'pt-br': ptBRMessages,
 }
 
